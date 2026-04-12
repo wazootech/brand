@@ -6,7 +6,7 @@ description: Official Wazoo typeface guidelines and type scale
 
 # Typography
 
-## Primary Typefaces
+## Primary typefaces
 
 | Role | Font | Weights | Source |
 |------|------|---------|--------|
@@ -33,7 +33,7 @@ font-weight: 600;
 letter-spacing: -0.02em;
 ```
 
-## Type Scale
+## Type scale
 
 | Element | Size | Weight | Color |
 |---------|------|--------|-------|
@@ -42,7 +42,7 @@ letter-spacing: -0.02em;
 | Body | 1.0625rem | 400 | text |
 | Caption | 0.875rem | 400 | text-muted |
 
-## Usage Rules
+## Usage rules
 
 - Body text should use `letter-spacing: -0.025em` for a tighter, modern feel
 - Avoid more than 2 font weights in a single composition

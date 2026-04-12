@@ -56,7 +56,7 @@ description: Official Wazoo color tokens, palette, and usage rules
 | `highlight` | `#FFAA00` | rgb(255, 170, 0) | Highlight badges, quirky highlight |
 | `selection` | `#846CE4` | rgb(132, 108, 228) | Text selection background |
 
-## Logo Gradient
+## Logo gradient
 
 The W mark inside the Worlds logo uses a layered semi-circle gradient:
 
@@ -65,7 +65,7 @@ The W mark inside the Worlds logo uses a layered semi-circle gradient:
 | Outer ring | `#FFE599` → `#F1C232` | Yellow semi-circles |
 | W glyphs | `#FF9800` (×3) + connecting stroke | Wazoo Orange |
 
-## Usage Rules
+## Usage rules
 
 - Default dark background is `void` (`#040404`), not pure black
 - Primary orange should appear on hover states and interactive elements

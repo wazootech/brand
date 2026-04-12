@@ -31,12 +31,12 @@ The favicon is the W mark in orange on dark background — [`favicon.svg`](/asse
 
 The wordmark is **"Wazoo"** in Inter 600 weight with the W glyph to its left in lockups. Always maintain clear space of at least the height of the W glyph on all sides.
 
-## Usage Rules
+## Usage rules
 
 - Do not stretch, rotate, recolor, or add effects to any logo asset
 - Do not place logo assets on busy photographic backgrounds
 - Use a solid `void` or `surface` background behind logos
 
-## GitHub Repository
+## GitHub repository
 
 All source files are available in the [wazootech/brand](https://github.com/wazootech/brand) repository.

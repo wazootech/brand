@@ -6,16 +6,16 @@ description: Animation and motion principles for the Wazoo brand
 
 # Motion
 
-## Guiding Principles
+## Guiding principles
 
 Wazoo's motion language has two modes:
 
 1. **Purposeful** — Motion that communicates meaning (state changes, transitions, feedback)
 2. **Quirky** — Decorative micro-animations that express personality and differentiate the brand
 
-## Core Animations
+## Core animations
 
-### Fade In
+### Fade in
 
 Default entrance for all content on dark backgrounds.
 
@@ -26,7 +26,7 @@ Default entrance for all content on dark backgrounds.
 }
 ```
 
-### Logo Rotate
+### Logo rotate
 
 On hover, the W logo spins 360° with a cubic-bezier overshoot for a playful feel.
 
@@ -41,7 +41,7 @@ On hover, the W logo spins 360° with a cubic-bezier overshoot for a playful fee
 }
 ```
 
-## Quirky Animations
+## Quirky animations
 
 | Class | Effect | Trigger |
 |-------|--------|---------|
@@ -50,7 +50,7 @@ On hover, the W logo spins 360° with a cubic-bezier overshoot for a playful fee
 | `.quirk-breathe` | Subtle scale + opacity pulse | auto (4s loop) |
 | `.quirk-glitch` | RGB split + clip distortion | hover |
 
-## Reduced Motion
+## Reduced motion
 
 Always respect `prefers-reduced-motion`. All animations collapse to instant transitions when enabled.
 
@@ -63,7 +63,7 @@ Always respect `prefers-reduced-motion`. All animations collapse to instant tran
 }
 ```
 
-## Timing Tokens
+## Timing tokens
 
 | Token | Value |
 |-------|-------|

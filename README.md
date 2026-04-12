@@ -11,7 +11,7 @@
 - [`brand/typography.md`](brand/typography.md) — Typeface guidelines
 - [`brand/motion.md`](brand/motion.md) — Animation and motion principles
 
-## Logo Usage
+## Logo usage
 
 ### Wordmark
 
@@ -22,11 +22,11 @@ The primary Wazoo wordmark consists of the **W** glyph mark + the word "Wazoo" i
 | Dark background | `assets/logo/light.svg` | On `#040404` dark backgrounds |
 | Light background | `assets/logo/dark.svg` | On `#FAFAF9` light backgrounds |
 
-### W Mark
+### W mark
 
 The standalone W mark (`assets/logo/w.svg`) is a semi-circle composite forming the letter **W** in Wazoo Orange (`#ff9800`). Use it at 16×16px (app icons, tight spaces) or 32×32px+ (hero, print).
 
-### Clear Space
+### Clear space
 
 Maintain minimum clear space equal to the height of the W glyph on all sides.
 

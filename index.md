@@ -31,7 +31,7 @@ A living reference for Wazoo's visual identity — color, type, motion, and asse
   </div>
 </div>
 
-## Quick Reference
+## Quick reference
 
 | Token | Value |
 |-------|-------|
@@ -41,6 +41,6 @@ A living reference for Wazoo's visual identity — color, type, motion, and asse
 | Font (body) | IBM Plex Mono |
 | Font (headings) | Inter |
 
-## Usage Policy
+## Usage policy
 
 All brand assets are the exclusive property of Wazoo, Inc. Use of these assets does not grant any intellectual property rights. Contact the Wazoo team for partnership or licensing inquiries.
