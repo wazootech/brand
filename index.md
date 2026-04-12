@@ -12,22 +12,22 @@ A living reference for Wazoo's visual identity — color, type, motion, and asse
   <div class="card">
     <h3>Colors</h3>
     <p>Official color tokens, palette, and usage rules.</p>
-    <a href="{{ "/brand/colors" | relative_url }}">View colors →</a>
+    <a href="/brand/colors">View colors →</a>
   </div>
   <div class="card">
     <h3>Typography</h3>
     <p>Typeface system, scale, and usage guidelines.</p>
-    <a href="{{ "/brand/typography" | relative_url }}">View type →</a>
+    <a href="/brand/typography">View type →</a>
   </div>
   <div class="card">
     <h3>Motion</h3>
     <p>Animation principles and quirky motion effects.</p>
-    <a href="{{ "/brand/motion" | relative_url }}">View motion →</a>
+    <a href="/brand/motion">View motion →</a>
   </div>
   <div class="card">
     <h3>Assets</h3>
     <p>Logo files, icons, and brand imagery.</p>
-    <a href="{{ "/assets" | relative_url }}">View assets →</a>
+    <a href="/assets">View assets →</a>
   </div>
 </div>
 
