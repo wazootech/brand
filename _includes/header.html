@@ -1,0 +1,14 @@
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="{{ "/" | relative_url }}" class="nav-logo">
+      <img src="{{ "/assets/logo/light.svg" | relative_url }}" alt="Wazoo" class="logo-img" />
+    </a>
+    <ul class="nav-links">
+      <li><a href="{{ "/brand/colors" | relative_url }}" {% if page.url contains '/brand/colors' %}class="active"{% endif %}>Colors</a></li>
+      <li><a href="{{ "/brand/typography" | relative_url %}" {% if page.url contains '/brand/typography' %}class="active"{% endif %}>Typography</a></li>
+      <li><a href="{{ "/brand/motion" | relative_url %}" {% if page.url contains '/brand/motion' %}class="active"{% endif %}>Motion</a></li>
+      <li><a href="{{ "/assets" | relative_url %}" {% if page.url contains '/assets' %}class="active"{% endif %}>Assets</a></li>
+      <li><a href="https://github.com/wazootech/brand" target="_blank" rel="noopener" class="nav-github">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
