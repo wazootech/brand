@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Wazoo Brand Guide
+title: Brand
 description: Official Wazoo visual identity, color, type, and motion guidelines
 ---
 
-# Wazoo Brand Guide
+# Brand
 
 A living reference for Wazoo's visual identity — color, type, motion, and assets.
 
