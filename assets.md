@@ -14,18 +14,18 @@ The Wazoo logo lockup is available in light and dark variants. Always use the pr
   <div class="card">
     <h3>Light Mode</h3>
     <p>Darker variant for light backgrounds (#FAFAF9).</p>
-    <a href="/assets/light/wazoo.svg">Download wazoo.svg →</a>
+    <a href="assets/light/wazoo.svg">Download wazoo.svg →</a>
   </div>
   <div class="card">
     <h3>Dark Mode</h3>
     <p>Lighter variant for dark backgrounds (#040404).</p>
-    <a href="/assets/dark/wazoo.svg">Download wazoo.svg →</a>
+    <a href="assets/dark/wazoo.svg">Download wazoo.svg →</a>
   </div>
 </div>
 
 ## Favicon
 
-The favicon is the W Mark — [`favicon.svg`](/assets/common/favicon.svg).
+The favicon is the W Mark — [`favicon.svg`](assets/common/favicon.svg).
 
 ## Wordmark
 
