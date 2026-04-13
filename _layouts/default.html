@@ -26,7 +26,10 @@
       menuToggle.addEventListener('click', () => {
         const isOpen = nav.classList.toggle('is-open');
         menuToggle.setAttribute('aria-expanded', isOpen);
+        
+        // Solid scroll lock for premium feel
         document.body.style.overflow = isOpen ? 'hidden' : '';
+        document.documentElement.style.overflow = isOpen ? 'hidden' : '';
       });
 
       // Close menu when clicking a link
