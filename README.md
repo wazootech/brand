@@ -6,7 +6,10 @@
 
 ## Contents
 
-- [`assets/logo/`](assets/logo/) — Logo lockups and W mark SVG
+- `assets/light/` — Assets for light backgrounds
+- `assets/dark/` — Assets for dark backgrounds
+- `assets/common/` — Shared assets (favicon, etc.)
+- `assets/images/` — Illustrative brand imagery
 - [`brand/colors.md`](brand/colors.md) — Color palette with hex values and usage
 - [`brand/typography.md`](brand/typography.md) — Typeface guidelines
 - [`brand/motion.md`](brand/motion.md) — Animation and motion principles
@@ -19,12 +22,10 @@ The primary Wazoo wordmark consists of the **W** glyph mark + the word "Wazoo" i
 
 | Variant | File | Use |
 |---------|------|-----|
-| Dark background | `assets/logo/light.svg` | On `#040404` dark backgrounds |
-| Light background | `assets/logo/dark.svg` | On `#FAFAF9` light backgrounds |
+| Dark background | `assets/dark/wazoo.svg` | For `#040404` backgrounds |
+| Light background | `assets/light/wazoo.svg` | For `#FAFAF9` backgrounds |
 
-### W mark
-
-The standalone W mark (`assets/logo/w.svg`) is a semi-circle composite forming the letter **W** in Wazoo Orange (`#ff9800`). Use it at 16×16px (app icons, tight spaces) or 32×32px+ (hero, print).
+The standalone W Mark is available in themed variants in `assets/light/` and `assets/dark/`. Use the variant that matches the background contrast.
 
 ### Clear space
 
