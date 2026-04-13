@@ -27,7 +27,7 @@ A living reference for Wazoo's visual identity — color, type, motion, and asse
   <div class="card">
     <h3>Assets</h3>
     <p>Logo files, icons, and brand imagery.</p>
-    <a href="/assets">View assets →</a>
+    <a href="/brand/assets">View assets →</a>
   </div>
 </div>
 

@@ -10,6 +10,7 @@
 - `assets/dark/` — Assets for dark backgrounds
 - `assets/common/` — Shared assets (favicon, etc.)
 - `assets/images/` — Illustrative brand imagery
+- `brand/assets.md` — Guide to downloadable assets
 - [`brand/colors.md`](brand/colors.md) — Color palette with hex values and usage
 - [`brand/typography.md`](brand/typography.md) — Typeface guidelines
 - [`brand/motion.md`](brand/motion.md) — Animation and motion principles
