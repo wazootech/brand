@@ -1,8 +1,8 @@
-# Wazoo Brand
+# Wazoo Brand [CONSOLIDATED]
 
-🔮 Official brand assets, guidelines, and identity documentation for Wazoo.
-
-**Live site:** [brand.wazoo.dev](https://brand.wazoo.dev)
+> [!IMPORTANT]
+> **This repository has been consolidated into [wazootech/wazoo.dev](https://github.com/wazootech/wazoo.dev).**  
+> Future brand guidelines, assets, and specs reside at [wazoo.dev/brand](https://wazoo.dev/brand) and the root [DESIGN.md](https://github.com/wazootech/wazoo.dev/blob/main/DESIGN.md). This repository is now read-only and archived.
 
 ## Contents
 
